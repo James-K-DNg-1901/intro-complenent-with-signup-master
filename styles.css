@@ -99,7 +99,7 @@ small {
 }
 
 .error {
-    background-image: url(/intro-component-with-signup-form-master/images/icon-error.svg);
+    background-image: url(./images/icon-error.svg);
     background-repeat: no-repeat;
     background-size: 1.3em;
     background-position: 26em;
